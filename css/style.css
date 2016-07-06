@@ -98,9 +98,8 @@ main {
     font-size: 20px;
     color: #777;
 }
-.days li:hover {
+.days li:hover{
     color: #ff5151;
-
 }
 
 .days li .active {
@@ -115,4 +114,15 @@ main {
 #calendar{
     box-shadow: 0 0 4px 0 #5a5a5a;
 }
+
+
+.bookmark {
+    background-image: url("../img/bdg.png");
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+
 
