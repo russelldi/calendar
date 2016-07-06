@@ -98,6 +98,10 @@ main {
     font-size: 20px;
     color: #777;
 }
+.days li:hover {
+    color: #ff5151;
+
+}
 
 .days li .active {
     border-radius: 100%;
@@ -106,4 +110,9 @@ main {
     color: white !important;
 }
 
+
+
+#calendar{
+    box-shadow: 0 0 4px 0 #5a5a5a;
+}
 
