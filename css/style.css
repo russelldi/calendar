@@ -102,7 +102,7 @@ main {
     color: #ff5151;
 }
 
-.days li .active {
+.days li .selected {
     border-radius: 100%;
     padding: 10px;
     background: #ff5151;
